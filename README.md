@@ -3,7 +3,7 @@
 Here you will find a variety of projects that showcase my skills and experience in data analysis, visualization, machine learning, virtual training, and Python development. 📊👨‍💻🤖💻📚
 
 
-- **Data Analysis Projects** 📈: This folder contains projects that demonstrate my proficiency in data analysis techniques such as data cleaning, data manipulation, exploratory data analysis, and data visualization. These projects are implemented using tools such as Python and SQL.
+- **Data Analysis Projects** 📈: This folder contains projects that demonstrate my proficiency in data analysis techniques such as data cleaning, data manipulation, exploratory data analysis, and data visualization. These projects are implemented using tools such as Python, SQL, Streamlit and Flask.
 
 - **Power BI & Excel Dashboard Projects** 📊: In this folder, you will find examples of my work in creating interactive dashboards using Power BI and Excel. These dashboards provide insights into complex data sets, making it easy to understand and interpret the data.
 
