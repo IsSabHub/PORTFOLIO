@@ -1,0 +1,725 @@
+Title,Price,Location,Bedrooms,Bathrooms,Surface
+ Maison,129 500 ,Mouscron,2,1,85 m²
+ Appartement,129 500 ,Sint-Niklaas,1,1,61 m²
+ Maison,129 900 ,Anderlues,4,1,136 m²
+ Maison,129 900 ,Jumet,4,1,183 m²
+ Maison,129 999 ,Marchienne-Au-Pont,3,1,172 m²
+ Appartement,129 999 ,Charleroi,1,1,115 m²
+ Maison,129 999 ,Marchienne-Au-Pont,3,2,158 m²
+ Maison,130 000 ,Baugnies,1,1,72 m²
+ Maison,130 000 ,Flénu,2,1,147 m²
+ Maison,130 000 ,Wannebecq,4,2,180 m²
+ Appartement,130 000 ,Blanckenberghe,1,1,56 m²
+ Maison,130 000 ,Châtelet,3,1,84 m²
+ Maison Trois Façades,130 000 ,Quevaucamps,2,1,300 m²
+ Maison,130 000 ,Frameries,2,1,90 m²
+ Appartement,130 000 ,Mouscron,2,1,122 m²
+ Maison Trois Façades,130 000 ,Hornu,2,1,143 m²
+ Maison,130 000 ,Grivegnée,1,1,80 m²
+ Maison,130 000 ,Spiennes,2,1,87 m²
+ Maison,130 000 ,Jumet,3,1,110 m²
+ Bungalow,130 000 ,Coxyde,1,1,45 m²
+ Maison,130 000 ,Grâce-Hollogne,3,1,95 m²
+ Maison,130 000 ,Wihéries,2,1,90 m²
+ Appartement,130 000 ,Herstal,1,1,78 m²
+ Appartement,130 000 ,Herstal,1,1,59 m²
+ Appartement,130 000 ,Blanckenberghe,1,1,58 m²
+ Appartement,130 000 ,Blanckenberghe,2,1,69 m²
+ Maison Trois Façades,130 000 ,Thuin,3,1,160 m²
+ Maison,130 000 ,Villers-La-Ville,2,1,60 m²
+ Maison,130 000 ,Louveigné,2,1,100 m²
+ Appartement,130 000 ,Overijse,1,1,39 m²
+ Maison,130 000 ,Gouy-Lez-Piéton,2,1,118 m²
+ Maison,130 000 ,Namur,2,2,111 m²
+ Maison,130 000 ,Verviers,5,1,150 m²
+ Maison Trois Façades,130 000 ,Nismes,2,1,138 m²
+ Appartement,130 000 ,Morlanwelz-Mariemont,1,1,92 m²
+ Maison,130 000 ,Thiméon,2,1,94 m²
+ Maison,130 000 ,Ollignies,2,1,159 m²
+ Maison,130 000 ,Ollignies,1,1,162 m²
+ Maison,130 000 ,Dour,2,1,100 m²
+ Maison,130 000 ,Ougrée,3,1,131 m²
+ Appartement,130 000 ,Liège,1,1,44 m²
+ Maison,130 000 ,Haine-Saint-Paul,3,1,150 m²
+ Maison,130 000 ,Manage,3,1,149 m²
+ Maison,130 000 ,Seraing,3,1,130 m²
+ Maison,130 000 ,Grandglise,3,1,233 m²
+ Maison,130 000 ,Herchies,3,1,146 m²
+ Maison,130 000 ,Montignies-Sur-Sambre,2,1,98 m²
+ Maison,130 000 ,Jumet,2,2,136 m²
+ Maison,130 000 ,Ligny,2,1,72 m²
+ Maison,130 000 ,Iseghem,3,1,130 m²
+ Appartement,131 000 ,Saint-Ghislain,1,1,85 m²
+ Appartement,132 000 ,Jemappes,1,1,87 m²
+ Appartement,132 500 ,Ecaussinnes-D'Enghien,2,1,75 m²
+ Appartement,132 500 ,Blanckenberghe,2,1,70 m²
+ Maison,134 900 ,Koekelare,2,1,660 m²
+ Maison,134 900 ,Lodelinsart,3,1,113 m²
+ Maison,134 990 ,Grâce-Hollogne,3,1,112 m²
+ Appartement,135 000 ,Ougrée,1,1,70 m²
+ Appartement,135 000 ,Blanckenberghe,2,1,82 m²
+ Maison,135 000 ,Warneton,4,1,111 m²
+ Maison,135 000 ,Renaix,2,1,120 m²
+ Maison Trois Façades,135 000 ,Marcinelle,3,2,180 m²
+ Maison,135 000 ,Quaregnon,3,1,147 m²
+ Flat,135 000 ,Boncelles,1,1,46 m²
+ Maison,135 000 ,Pont-De-Loup,3,1,147 m²
+ Maison,135 000 ,Péruwelz,3,1,250 m²
+ Maison,135 000 ,Tournai,2,1,122 m²
+ Maison,135 000 ,Saint-Ghislain,2,1,125 m²
+ Maison Trois Façades,135 000 ,Coxyde,2,1,43 m²
+ Maison,135 000 ,Strépy-Bracquegnies,3,1,120 m²
+ Appartement rez-de-chaussée,135 000 ,Frameries,2,1,75 m²
+ Maison,135 000 ,Couillet,2,1,84 m²
+ Maison,135 000 ,Pont-De-Loup,2,1,80 m²
+ Maison,135 000 ,Mouscron,2,1,118 m²
+ Maison,135 000 ,Vaux-Sous-Chèvremont,3,1,165 m²
+ Appartement,135 000 ,Frameries,2,1,81 m²
+ Maison quatre façades,135 000 ,Audenbourg,2,1,70 m²
+ Maison Trois Façades,135 000 ,Frameries,3,1,154 m²
+ Appartement,135 000 ,Roulers,2,1,101 m²
+ Maison,135 000 ,Jupille-Sur-Meuse,3,2,167 m²
+ Appartement,135 000 ,Auderghem,1,1,39 m²
+ Maison Trois Façades,135 000 ,Erquelinnes,2,1,399 m²
+ Appartement,135 000 ,Gilly,1,1,160 m²
+ Bungalow,135 000 ,Oreye,1,1,100 m²
+ Appartement,135 000 ,Mouscron,2,1,100 m²
+ Appartement,135 000 ,Roulers,1,1,75 m²
+ Maison,135 000 ,Grivegnée,3,1,137 m²
+ Maison,135 000 ,Herseaux,3,1,110 m²
+ Appartement,135 000 ,Tournai,2,1,77 m²
+ Appartement,135 000 ,Anderlecht,1,1,48 m²
+ Maison,135 000 ,Jemappes,2,1,157 m²
+ Maison,135 000 ,Pepinster,5,1,216 m²
+ Appartement,135 000 ,Flémalle,2,1,70 m²
+ Maison,135 000 ,Châtelineau,2,1,120 m²
+ Appartement,135 000 ,Gilly,2,1,96 m²
+ Maison,135 000 ,Pepinster,5,1,216 m²
+ Appartement,135 000 ,Bruxelles,1,1,50 m²
+ Maison,135 000 ,Menin,3,1,184 m²
+ Maison,135 000 ,Velaine-Sur-Sambre,2,1,116 m²
+ Maison,135 000 ,Flémalle,2,1,90 m²
+ Maison,135 000 ,Mont-Sur-Marchienne,1,1,65 m²
+ Appartement,135 000 ,Braine-Le-Comte,1,1,67 m²
+ Appartement,135 000 ,Tubize,2,1,85 m²
+ Appartement,135 000 ,Braine-Le-Comte,1,1,70 m²
+ Appartement,135 000 ,Coxyde,2,1,68 m²
+ Appartement,135 500 ,Liège,1,1,75 m²
+ Appartement,135 500 ,Trooz,1,1,70 m²
+ Maison,135 900 ,Comines,2,1,172 m²
+ Maison,136 000 ,Montignies-Sur-Sambre,2,1,97 m²
+ Maison,136 000 ,Glons,1,1,58 m²
+ Appartement,136 000 ,Mouscron,2,1,91 m²
+ Maison,137 000 ,Frameries,2,1,133 m²
+ Maison,137 000 ,Flémalle,2,1,90 m²
+ Maison,137 500 ,Seraing,3,1,125 m²
+ Maison,138 000 ,Gaurain-Ramecroix,5,1,197 m²
+ Appartement,138 000 ,Westende,2,1,64 m²
+ Maison,138 000 ,Péruwelz,4,2,247 m²
+ Maison Trois Façades,138 000 ,Philippeville,2,1,80 m²
+ Appartement,138 000 ,Philippeville,2,1,80 m²
+ Appartement,138 000 ,Westende,2,1,64 m²
+ Maison Trois Façades,138 000 ,Mariembourg,3,1,174 m²
+ Maison,139 000 ,Lebbeke,1,1,100 m²
+ Maison,139 000 ,Luingne,2,1,140 m²
+ Appartement,139 000 ,Courtrai,1,1,44 m²
+ Appartement,139 000 ,Courtrai,1,1,50 m²
+ Maison,139 000 ,Mouscron,3,1,135 m²
+ Maison,139 000 ,Couillet,3,1,115 m²
+ Maison,139 000 ,Verviers,20,1,70 m²
+ Maison,139 000 ,Saint-Ghislain,4,1,130 m²
+ Maison,139 000 ,Liège,2,1,148 m²
+ Maison,139 000 ,Sprimont,4,3,300 m²
+ Maison,139 000 ,Luingne,2,1,130 m²
+ Maison,139 000 ,Mouscron,3,1,96 m²
+ Appartement,139 000 ,Barvaux-Sur-Ourthe,3,1,54 m²
+ Maison Trois Façades,139 000 ,Tohogne,3,1,70 m²
+ Appartement,139 000 ,Audenarde,2,1,85 m²
+ Appartement,139 000 ,Grivegnée,1,1,77 m²
+ Maison,139 000 ,Mouscron,2,1,100 m²
+ Appartement,139 000 ,Anvers,1,1,30 m²
+ Maison,139 000 ,Glons,2,1,75 m²
+ Maison,139 000 ,Mouscron,3,1,91 m²
+ Maison,139 000 ,Mouscron,2,1,144 m²
+ Maison,139 000 ,Verviers,3,1,101 m²
+ Maison,139 000 ,Mouscron,3,1,114 m²
+ Maison,139 000 ,Menin,3,1,110 m²
+ Appartement,139 000 ,Beyne-Heusay,2,1,88 m²
+ Maison,139 000 ,Herseaux,2,1,103 m²
+ Maison,139 000 ,Fontaine-L'Evêque,3,1,150 m²
+ Maison,139 000 ,Marchienne-Au-Pont,2,1,70 m²
+ Appartement,139 000 ,Mouscron,3,1,125 m²
+ Appartement,139 000 ,Grammont,2,1,63 m²
+ Maison,139 000 ,Ploegsteert,5,1,112 m²
+ Maison,139 000 ,Mouscron,3,1,117 m²
+ Appartement,139 000 ,Ostende,1,1,53 m²
+ Maison,139 000 ,Marcinelle,2,1,95 m²
+ Maison,139 000 ,Châtelineau,4,1,134 m²
+ Studio,139 000 ,Ostende,1,1,43 m²
+ Maison,139 000 ,Mouscron,4,2,300 m²
+ Maison,139 000 ,Herseaux,2,1,107 m²
+ Maison,139 000 ,Courcelles,3,1,131 m²
+ Appartement,139 000 ,Mouscron,2,1,84 m²
+ Maison,139 000 ,Marchienne-Au-Pont,3,1,108 m²
+ Maison,139 000 ,La Louvière,3,1,187 m²
+ Appartement,139 000 ,Ostende,2,1,75 m²
+ Appartement,139 000 ,Dison,4,1,210 m²
+ Appartement,139 000 ,Mouscron,2,1,73 m²
+ Appartement,139 000 ,Mouscron,2,1,69 m²
+ Appartement,139 000 ,Mouscron,2,1,75 m²
+ Appartement,139 000 ,Ostende,2,1,66 m²
+ Maison,139 000 ,Mouscron,2,1,100 m²
+ Maison,139 000 ,Trooz,4,1,185 m²
+ Maison,139 000 ,Herstal,2,1,81 m²
+ Appartement,139 000 ,Seraing,2,1,91 m²
+ Maison,139 000 ,La Louvière,2,1,92 m²
+ Maison,139 000 ,Trooz,3,1,100 m²
+ Appartement,139 000 ,Charleroi,3,1,115 m²
+ Maison,139 000 ,Strépy-Bracquegnies,3,1,99 m²
+ Immeuble à appartements,139 000 ,Monceau-Sur-Sambre,2,2,130 m²
+ Maison,139 000 ,Seraing,2,1,145 m²
+ Maison,139 000 ,Rekkem,2,1,113 m²
+ Maison,139 000 ,Fleurus,2,1,70 m²
+ Maison,139 000 ,Ougrée,2,1,91 m²
+ Maison,139 000 ,Verviers,5,1,155 m²
+ Maison,139 000 ,Liège,1,1,70 m²
+ Maison quatre façades,139 000 ,Noiseux,2,1,65 m²
+ Maison,139 000 ,Luingne,3,1,110 m²
+ Appartement,139 000 ,Gembloux,1,1,45 m²
+ Appartement,139 000 ,Blanckenberghe,1,1,54 m²
+ Appartement,139 000 ,Deinze,2,1,76 m²
+ Maison,139 500 ,Malmedy,3,1,96 m²
+ Appartement,139 500 ,Liège,1,1,70 m²
+ Appartement rez-de-chaussée,139 500 ,Silly,2,1,70 m²
+ Maison,139 900 ,Flémalle,4,2,195 m²
+ Maison,139 900 ,Courtrai,3,1,70 m²
+ Maison,139 900 ,Couillet,3,1,120 m²
+ Maison,139 900 ,Dampremy,3,1,130 m²
+ Maison,139 999 ,Marchienne-Au-Pont,2,1,200 m²
+ Maison,139 999 ,Monceau-Sur-Sambre,3,1,171 m²
+ Maison,139 999 ,Auvelais,3,1,127 m²
+ Maison,139 999 ,Montignies-Sur-Sambre,5,2,181 m²
+ Appartement,140 000 ,Jodoigne,1,1,52 m²
+ Maison,140 000 ,Quaregnon,2,1,122 m²
+ Maison,140 000 ,Avelgem,2,1,106 m²
+ Maison Trois Façades,140 000 ,Péruwelz,2,1,127 m²
+ Maison,140 000 ,Boussu,2,1,120 m²
+ Maison de rangée,140 000 ,Middelkerke,1,1,67 m²
+ Appartement,140 000 ,Roulers,2,1,107 m²
+ Maison,140 000 ,Saint-Nicolas,3,1,109 m²
+ Maison,140 000 ,Cheratte,3,1,140 m²
+ Maison,140 000 ,Jemappes,3,1,108 m²
+ Maison quatre façades,140 000 ,Thy-Le-Château,2,1,114 m²
+ Maison,140 000 ,Herstal,3,2,189 m²
+ Maison,140 000 ,Bertrix,2,1,145 m²
+ Maison,140 000 ,Eugies,2,1,197 m²
+ Maison,140 000 ,Haine-Saint-Pierre,2,1,102 m²
+ Appartement,140 000 ,Coxyde,2,1,55 m²
+ Appartement,140 000 ,Nivelles,1,1,56 m²
+ Appartement,140 000 ,Taintignies,2,1,75 m²
+ Appartement,140 000 ,Taintignies,2,1,75 m²
+ Maison,140 000 ,Cambron-Casteau,2,1,176 m²
+ Appartement,140 000 ,La Louvière,2,1,99 m²
+ Appartement,140 000 ,La Panne,1,1,72 m²
+ Maison,140 000 ,Nivelles,2,1,106 m²
+ Maison,140 000 ,Courcelles,2,1,119 m²
+ Appartement,140 000 ,Liège,1,1,40 m²
+ Maison,140 000 ,Châtelet,6,3,300 m²
+ Maison,140 000 ,Grâce-Hollogne,2,1,94 m²
+ Appartement,140 000 ,Verviers,2,1,106 m²
+ Maison,140 000 ,Thuin,4,1,162 m²
+ Appartement,140 000 ,Schaerbeek,1,1,34 m²
+ Appartement,140 000 ,Bruxelles,1,1,26 m²
+ Appartement,140 000 ,Bruxelles,1,1,25 m²
+ Appartement,140 000 ,Braine-Le-Comte,2,1,132 m²
+ Maison,140 000 ,Braine-Le-Comte,3,1,132 m²
+ Appartement,140 000 ,Audenarde,1,1,70 m²
+ Appartement,140 000 ,La Panne,1,1,40 m²
+ Appartement,142 000 ,Tournai,2,1,134 m²
+ Maison,142 000 ,Gilly,3,1,137 m²
+ Appartement,143 000 ,Middelkerke,1,1,35 m²
+ Appartement,143 000 ,Coxyde,1,1,54 m²
+ Maison,144 000 ,Ougrée,2,1,107 m²
+ Maison,144 000 ,Liège,4,4,182 m²
+ Appartement,145 000 ,Blanckenberghe,1,1,55 m²
+ Maison,145 000 ,Seraing,2,1,130 m²
+ Appartement,145 000 ,Deinze,2,1,65 m²
+ Appartement,145 000 ,Tournai,2,1,80 m²
+ Maison,145 000 ,Barvaux-Sur-Ourthe,2,1,47 m²
+ Maison,145 000 ,Barvaux-Sur-Ourthe,2,1,82 m²
+ Maison,145 000 ,Châtelineau,4,2,131 m²
+ Appartement,145 000 ,Jemappes,1,1,75 m²
+ Appartement,145 000 ,Pecq,2,1,76 m²
+ Appartement,145 000 ,Welkenraedt,1,1,60 m²
+ Maison,145 000 ,Mont-Sur-Marchienne,7,1,190 m²
+ Maison,145 000 ,Mouscron,4,1,100 m²
+ Appartement,145 000 ,Dixmude,2,1,72 m²
+ Appartement,145 000 ,Dixmude,2,1,72 m²
+ Maison Trois Façades,145 000 ,Houtain-Saint-Siméon,4,1,157 m²
+ Maison,145 000 ,Herstal,3,1,89 m²
+ Appartement,145 000 ,Frameries,3,2,121 m²
+ Appartement,145 000 ,Chapelle-Lez-Herlaimont,2,1,150 m²
+ Maison,145 000 ,Neufmaison,2,1,108 m²
+ Maison,145 000 ,Ensival,4,1,182 m²
+ Maison,145 000 ,Neufmaison,2,1,108 m²
+ Appartement,145 000 ,Ham-Sur-Sambre,2,1,105 m²
+ Maison,145 000 ,Ransart,3,1,110 m²
+ Maison quatre façades,145 000 ,Cuesmes,3,1,128 m²
+ Appartement,145 000 ,Tournai,1,1,86 m²
+ Appartement rez-de-chaussée,145 000 ,Laeken,1,1,50 m²
+ Appartement,145 000 ,Tournai,1,1,62 m²
+ Appartement,145 000 ,Taintignies,2,1,75 m²
+ Appartement,145 000 ,Liège,2,1,75 m²
+ Châlet,145 000 ,Somme-Leuze,2,1,52 m²
+ Appartement,145 000 ,Frameries,2,1,71 m²
+ Appartement,145 000 ,Jette,1,1,65 m²
+ Appartement,145 000 ,Tournai,1,1,95 m²
+ Appartement,145 000 ,Tournai,2,1,90 m²
+ Maison,145 000 ,Couillet,4,2,112 m²
+ Appartement,145 000 ,Hornu,2,1,100 m²
+ Appartement,145 000 ,Dison,5,1,166 m²
+ Appartement,145 000 ,Dison,3,1,163 m²
+ Appartement,145 000 ,Westende,2,1,89 m²
+ Appartement,145 000 ,Mouscron,1,1,63 m²
+ Appartement,145 000 ,Tournai,1,1,50 m²
+ Maison de rangée,145 000 ,Alost,2,1,100 m²
+ Maison,145 000 ,Grivegnée,4,1,150 m²
+ Maison,145 000 ,Leers-Nord,2,1,94 m²
+ Maison,145 000 ,Frameries,2,1,95 m²
+ Appartement,145 000 ,Andenne,2,1,110 m²
+ Maison,145 000 ,Péruwelz,3,1,76 m²
+ Maison,145 000 ,Estaimpuis,2,1,105 m²
+ Maison quatre façades,145 000 ,Hautem-Saint-Liévin,2,1,380 m²
+ Maison,145 000 ,Châtelet,3,1,128 m²
+ Maison,145 000 ,Jumet,2,1,128 m²
+ Maison,145 000 ,Petit-Enghien,2,1,84 m²
+ Appartement,145 000 ,Herstal,2,1,74 m²
+ Maison,145 000 ,Jemappes,3,1,168 m²
+ Maison,145 000 ,Verviers,3,1,80 m²
+ Maison,145 000 ,Trazegnies,4,1,141 m²
+ Appartement,145 000 ,Angleur,1,1,60 m²
+ Appartement,145 000 ,Braine-Le-Comte,2,1,80 m²
+ Appartement,145 000 ,Blanckenberghe,1,1,55 m²
+ Maison,145 500 ,Chênée,3,1,105 m²
+ Maison,147 000 ,Mouscron,3,1,113 m²
+ Appartement,147 000 ,Westende,1,1,37 m²
+ Appartement,147 000 ,Westende,1,1,34 m²
+ Maison,147 500 ,Piéton,2,1,115 m²
+ Appartement,147 500 ,Liège,1,1,60 m²
+ Appartement,147 500 ,Liège,1,1,60 m²
+ Maison Trois Façades,147 500 ,Liège,2,1,79 m²
+ Maison,147 500 ,Hornu,2,1,120 m²
+ Maison Trois Façades,148 000 ,Rance,4,1,163 m²
+ Maison quatre façades,148 000 ,Couillet,3,1,112 m²
+ Appartement,148 000 ,Middelkerke,1,1,43 m²
+ Maison Trois Façades,148 000 ,Chimay,2,1,196 m²
+ Maison Trois Façades,148 000 ,Macquenoise,2,1,196 m²
+ Maison Trois Façades,148 000 ,Philippeville,2,2,180 m²
+ Maison,148 000 ,Mouscron,3,1,109 m²
+ Maison Trois Façades,148 000 ,Fontaine-L'Evêque,2,1,100 m²
+ Appartement,148 000 ,Westende,1,1,38 m²
+ Maison,149 000 ,Herseaux,2,1,118 m²
+ Maison,149 000 ,Vivegnis,2,1,90 m²
+ Maison,149 000 ,Roulers,2,1,86 m²
+ Maison,149 000 ,Montegnée,2,1,113 m²
+ Appartement,149 000 ,Charleroi,2,1,80 m²
+ Maison,149 000 ,Herseaux,3,1,109 m²
+ Maison,149 000 ,Flénu,3,1,114 m²
+ Maison,149 000 ,Lambusart,2,1,115 m²
+ Maison,149 000 ,Trooz,3,1,98 m²
+ Maison,149 000 ,Liège,4,1,165 m²
+ Maison,149 000 ,Liège,2,1,117 m²
+ Maison,149 000 ,Bredene,3,1,139 m²
+ Appartement,149 000 ,Anderlecht,1,1,37 m²
+ Maison,149 000 ,Poperinghe,2,1,72 m²
+ Maison,149 000 ,Hermalle-Sous-Argenteau,2,1,115 m²
+ Maison,149 000 ,Monceau-Sur-Sambre,4,2,179 m²
+ Maison,149 000 ,Somme-Leuze,2,1,70 m²
+ Appartement,149 000 ,Ostende,2,1,60 m²
+ Maison,149 000 ,Strépy-Bracquegnies,2,1,140 m²
+ Maison,149 000 ,Seraing,3,1,120 m²
+ Maison,149 000 ,Seraing,3,1,120 m²
+ Appartement,149 000 ,Grivegnée,2,1,92 m²
+ Maison,149 000 ,Tournai,3,1,140 m²
+ Maison,149 000 ,Liège,3,2,138 m²
+ Maison,149 000 ,Liège,3,2,138 m²
+ Maison,149 000 ,Haine-Saint-Paul,2,1,104 m²
+ Maison,149 000 ,Andenne,3,1,102 m²
+ Maison,149 000 ,Seraing,4,1,150 m²
+ Maison,149 000 ,Néchin,4,1,143 m²
+ Maison,149 000 ,Bruyelle,3,1,200 m²
+ Maison de rangée,149 000 ,Roulers,3,1,139 m²
+ Maison,149 000 ,Crisnée,2,1,120 m²
+ Appartement,149 000 ,Liège,1,1,60 m²
+ Duplex,149 000 ,Aartrijke,3,1,115 m²
+ Maison,149 000 ,Mouscron,2,1,115 m²
+ Maison,149 000 ,Seilles,3,1,112 m²
+ Appartement,149 000 ,Heusy,1,1,60 m²
+ Maison,149 000 ,Mouscron,2,1,140 m²
+ Maison,149 000 ,Dison,3,1,150 m²
+ Appartement,149 000 ,Molenbeek-Saint-Jean,1,1,50 m²
+ Maison,149 000 ,Mouscron,3,1,115 m²
+ Maison,149 000 ,Rollegem,2,1,150 m²
+ Maison,149 000 ,Comines,4,2,166 m²
+ Maison,149 000 ,Bernissart,4,1,168 m²
+ Maison,149 000 ,Forchies-La-Marche,3,3,189 m²
+ Maison,149 000 ,Forchies-La-Marche,3,3,189 m²
+ Appartement,149 000 ,Charleroi,3,1,115 m²
+ Appartement,149 000 ,Quiévrain,3,1,111 m²
+ Maison,149 000 ,Iseghem,2,1,90 m²
+ Maison,149 000 ,Seraing,3,2,80 m²
+ Maison,149 000 ,Liège,2,1,100 m²
+ Maison,149 000 ,Dottignies,3,1,135 m²
+ Appartement,149 000 ,Mouscron,2,1,84 m²
+ Maison,149 000 ,Bertrix,4,1,172 m²
+ Immeuble à appartements,149 000 ,Bertrix,4,1,172 m²
+ Maison,149 000 ,Herseaux,3,1,143 m²
+ Appartement,149 000 ,Liège,2,1,88 m²
+ Appartement,149 000 ,Dison,4,1,129 m²
+ Appartement,149 000 ,Dison,3,1,129 m²
+ Appartement,149 000 ,Coxyde,1,1,48 m²
+ Maison,149 000 ,Tournai,2,1,86 m²
+ Maison,149 000 ,Herseaux,3,1,120 m²
+ Appartement,149 000 ,Liège,1,1,106 m²
+ Maison,149 000 ,Willemeau,2,1,105 m²
+ Maison,149 000 ,Gilly,3,2,163 m²
+ Appartement,149 000 ,Tournai,2,1,107 m²
+ Maison,149 000 ,Eben-Emael,4,1,115 m²
+ Maison,149 000 ,Hastière-Lavaux,2,1,104 m²
+ Appartement,149 000 ,Grivegnée,2,1,76 m²
+ Appartement,149 000 ,La Louvière,2,2,116 m²
+ Appartement,149 000 ,Koekelberg,1,1,60 m²
+ Appartement,149 000 ,Liège,2,1,80 m²
+ Maison,149 000 ,Vottem,2,1,114 m²
+ Maison,149 000 ,Rekkem,2,1,122 m²
+ Maison,149 000 ,Mouscron,3,1,143 m²
+ Maison,149 000 ,Monceau-Sur-Sambre,4,1,150 m²
+ Maison,149 000 ,Liège,2,1,89 m²
+ Maison,149 000 ,Leers-Nord,1,1,111 m²
+ Maison,149 000 ,Pecq,3,1,142 m²
+ Appartement,149 000 ,Middelkerke,1,1,64 m²
+ Appartement,149 000 ,Anderlecht,1,1,57 m²
+ Appartement,149 000 ,Thourout,2,1,79 m²
+ Maison,149 000 ,Châtelet,3,1,120 m²
+ Appartement,149 000 ,Liège,2,1,75 m²
+ Maison,149 000 ,Rekkem,3,1,140 m²
+ Maison,149 000 ,Verviers,2,1,85 m²
+ Triplex,149 000 ,Saint-Hubert,3,1,218 m²
+ Maison,149 000 ,Haine-Saint-Pierre,4,1,134 m²
+ Maison,149 000 ,Ham-Sur-Heure-Nalinnes,2,1,91 m²
+ Maison,149 000 ,Soumagne,1,1,85 m²
+ Maison,149 000 ,Pepinster,5,1,172 m²
+ Appartement,149 000 ,Forest,1,1,53 m²
+ Appartement,149 000 ,Zwevegem,2,1,85 m²
+ Maison,149 000 ,Herseaux,3,2,115 m²
+ Maison de rangée,149 000 ,Aywaille,2,1,700 m²
+ Maison quatre façades,149 000 ,Astene,2,1,96 m²
+ Maison,149 500 ,Grâce-Hollogne,4,1,125 m²
+ Appartement,149 500 ,Ostende,1,1,50 m²
+ Appartement,149 500 ,Blanckenberghe,1,1,87 m²
+ Appartement,149 500 ,Flémalle,1,1,60 m²
+ Appartement,149 500 ,Pepinster,2,1,85 m²
+ Appartement,149 500 ,Horion-Hozémont,3,2,195 m²
+ Maison,149 500 ,Grâce-Hollogne,2,1,70 m²
+ Duplex,149 900 ,Deurne,1,1,65 m²
+ Maison,149 900 ,Charleroi,4,1,157 m²
+ Maison,149 999 ,La Louvière,2,1,119 m²
+ Maison,149 999 ,Jumet,1,1,44 m²
+ Maison,149 999 ,Jemappes,3,1,185 m²
+ Maison,149 999 ,Monceau-Sur-Sambre,5,1,174 m²
+ Maison,149 999 ,Gilly,2,1,98 m²
+ Appartement,149 999 ,Houdeng-Goegnies,2,1,92 m²
+ Maison,149 999 ,Gilly,2,1,123 m²
+ Maison,149 999 ,Marchienne-Au-Pont,3,1,113 m²
+ Maison,149 999 ,Farciennes,3,1,138 m²
+ Maison,149 999 ,Lodelinsart,4,2,175 m²
+ Maison,149 999 ,Jumet,3,1,124 m²
+ Appartement,149 999 ,Charleroi,2,1,125 m²
+ Maison,149 999 ,Montignies-Sur-Sambre,3,1,127 m²
+ Maison,149 999 ,Marchienne-Au-Pont,6,2,203 m²
+ Maison,149 999 ,Anderlues,4,2,245 m²
+ Maison,149 999 ,Fayt-Lez-Manage,2,1,118 m²
+ Maison,149 999 ,Wanfercée-Baulet,3,1,197 m²
+ Maison,150 000 ,Tertre,3,1,100 m²
+ Maison,150 000 ,Lodelinsart,5,2,200 m²
+ Maison,150 000 ,Souvret,3,1,168 m²
+ Maison,150 000 ,Rongy,3,1,163 m²
+ Maison Trois Façades,150 000 ,Marchienne-Au-Pont,3,1,150 m²
+ Maison Trois Façades,150 000 ,Wiers,1,1,168 m²
+ Maison,150 000 ,Eugies,2,1,100 m²
+ Maison,150 000 ,Herseaux,2,1,89 m²
+ Maison Trois Façades,150 000 ,Fontaine-L'Evêque,2,1,124 m²
+ Maison Trois Façades,150 000 ,Leval-Trahegnies,2,1,135 m²
+ Maison Trois Façades,150 000 ,Chimay,5,1,188 m²
+ Maison Trois Façades,150 000 ,Momignies,5,1,188 m²
+ Maison Trois Façades,150 000 ,Chimay,5,1,188 m²
+ Maison Trois Façades,150 000 ,Momignies,5,1,188 m²
+ Maison,150 000 ,Hornu,3,1,170 m²
+ Duplex,150 000 ,Frameries,4,2,106 m²
+ Maison,150 000 ,Boussu,2,1,129 m²
+ Duplex,150 000 ,Merksem,1,1,92 m²
+ Appartement,150 000 ,Durbuy,3,1,82 m²
+ Maison,150 000 ,Tournai,3,2,180 m²
+ Maison,150 000 ,Pellaines,2,1,105 m²
+ Maison,150 000 ,Trazegnies,11,8,495 m²
+ Maison,150 000 ,Bléharies,4,1,274 m²
+ Maison Trois Façades,150 000 ,Florennes,6,2,206 m²
+ Maison Trois Façades,150 000 ,Bon-Secours,4,1,160 m²
+ Duplex,150 000 ,Herstal,4,1,115 m²
+ Maison,150 000 ,Marcinelle,4,1,138 m²
+ Appartement,150 000 ,Mons,2,1,70 m²
+ Maison,150 000 ,Durbuy,3,1,73 m²
+ Appartement,150 000 ,Wandre,2,1,70 m²
+ Appartement,150 000 ,Wandre,2,1,66 m²
+ Appartement,150 000 ,Braine-Le-Comte,1,1,55 m²
+ Maison Trois Façades,150 000 ,Péruwelz,5,2,330 m²
+ Maison,150 000 ,Mouscron,3,1,139 m²
+ Appartement,150 000 ,Vyle-Et-Tharoul,1,1,63 m²
+ Appartement,150 000 ,Nivelles,1,1,48 m²
+ Maison,150 000 ,Tongres,2,1,221 m²
+ Appartement,150 000 ,Grivegnée,2,1,70 m²
+ Maison,150 000 ,Roucourt,2,1,197 m²
+ Appartement,150 000 ,Anderlecht,1,1,57 m²
+ Maison,150 000 ,Lobbes,4,1,111 m²
+ Maison,150 000 ,Montignies-Sur-Sambre,3,1,174 m²
+ Appartement,150 000 ,Tervueren,1,1,65 m²
+ Maison,150 000 ,Tervueren,1,1,65 m²
+ Maison,150 000 ,Roucourt,4,1,210 m²
+ Maison,150 000 ,Enghien,2,1,112 m²
+ Maison Trois Façades,150 000 ,Cerfontaine,3,1,170 m²
+ Maison,150 000 ,Nessonvaux,2,3,250 m²
+ Maison,150 000 ,Braine-Le-Comte,2,1,95 m²
+ Maison,150 000 ,Ittre,3,1,120 m²
+ Appartement,150 000 ,Tubize,2,1,75 m²
+ Appartement,150 000 ,Tubize,2,1,75 m²
+ Maison,150 000 ,Rebaix,1,1,98 m²
+ Appartement,151 500 ,Mouscron,1,1,78 m²
+ Maison,152 000 ,Marcinelle,3,1,100 m²
+ Maison,152 000 ,Tournai,3,3,150 m²
+ Maison,153 000 ,Liège,5,1,150 m²
+ Maison,154 000 ,Menin,3,1,108 m²
+ Maison,154 000 ,Leuze-En-Hainaut,3,1,165 m²
+ Appartement,154 000 ,Renaix,2,1,101 m²
+ Appartement,154 500 ,Blanckenberghe,2,1,69 m²
+ Maison,154 500 ,Verviers,3,1,93 m²
+ Appartement,154 900 ,Liège,2,1,80 m²
+ Appartement,154 900 ,Molenbeek-Saint-Jean,2,1,80 m²
+ Maison,155 000 ,Jumet,2,1,115 m²
+ Appartement,155 000 ,Bouge,2,1,75 m²
+ Maison,155 000 ,Liège,4,1,92 m²
+ Maison,155 000 ,Trooz,2,1,70 m²
+ Maison,155 000 ,Renaix,3,1,135 m²
+ Maison,155 000 ,Mouscron,3,1,95 m²
+ Maison,155 000 ,Berzée,3,1,108 m²
+ Maison,155 000 ,Soumagne,2,1,105 m²
+ Appartement,155 000 ,Beyne-Heusay,1,1,57 m²
+ Maison,155 000 ,Grâce-Hollogne,3,1,95 m²
+ Villa,155 000 ,Hastière-Lavaux,3,1,120 m²
+ Appartement,155 000 ,Blanckenberghe,2,1,43 m²
+ Maison,155 000 ,Braine-Le-Comte,5,2,146 m²
+ Maison de rangée,155 000 ,Tongres,2,1,233 m²
+ Appartement,155 000 ,Anderlues,2,1,89 m²
+ Appartement,155 000 ,Coxyde,1,1,41 m²
+ Appartement,155 000 ,Liège,2,1,82 m²
+ Châlet,155 000 ,Sougné-Remouchamps,2,1,76 m²
+ Maison,155 000 ,Mouscron,3,1,143 m²
+ Maison,155 000 ,Saint-Ghislain,3,1,106 m²
+ Appartement rez-de-chaussée,155 000 ,Roux,1,1,80 m²
+ Maison,155 000 ,Ans,4,1,185 m²
+ Maison,155 000 ,Menin,3,2,128 m²
+ Appartement,155 000 ,Liège,2,1,88 m²
+ Appartement,155 000 ,Sint-Niklaas,2,1,75 m²
+ Appartement,155 000 ,Roulers,2,1,83 m²
+ Maison,155 000 ,Avelgem,5,1,205 m²
+ Appartement,155 000 ,Saint-Idesbald,1,1,44 m²
+ Appartement,155 000 ,Dottignies,2,2,70 m²
+ Appartement,155 000 ,Blanckenberghe,1,1,40 m²
+ Appartement,155 000 ,Dottignies,2,2,86 m²
+ Appartement,155 000 ,Mouscron,2,2,84 m²
+ Appartement,155 000 ,Dottignies,2,1,82 m²
+ Appartement,155 000 ,Blanckenberghe,1,1,50 m²
+ Appartement,155 000 ,Wandre,2,1,90 m²
+ Bungalow,155 000 ,Tournai,1,1,41 m²
+ Appartement,155 000 ,Braine-Le-Comte,1,1,55 m²
+ Appartement,155 000 ,Mouscron,1,1,70 m²
+ Appartement,155 000 ,Mouscron,2,1,85 m²
+ Appartement,155 000 ,Nivelles,2,1,65 m²
+ Maison,155 000 ,Ransart,2,1,75 m²
+ Maison,155 000 ,Tournai,3,1,130 m²
+ Maison,155 000 ,Courcelles,3,1,123 m²
+ Maison,155 000 ,Maffle,2,1,115 m²
+ Appartement,155 000 ,Taintignies,2,1,86 m²
+ Appartement,155 000 ,Liège,2,1,90 m²
+ Maison,155 000 ,Montignies-Sur-Sambre,2,1,70 m²
+ Maison,155 000 ,Nimy,3,1,121 m²
+ Maison de rangée,155 000 ,Ougrée,5,1,128 m²
+ Maison,155 000 ,Wevelgem,3,1,120 m²
+ Maison,156 000 ,Antoing,3,1,100 m²
+ Maison,156 000 ,Alost,2,1,121 m²
+ Appartement,157 500 ,Bouge,2,1,75 m²
+ Maison,157 500 ,Givry,2,1,124 m²
+ Maison quatre façades,158 000 ,Bernissart,5,1,155 m²
+ Maison,158 000 ,Thuin,2,1,95 m²
+ Maison,158 000 ,Tilff,3,1,208 m²
+ Maison,158 000 ,Houtain-Saint-Siméon,2,1,177 m²
+ Appartement,158 500 ,Dixmude,1,1,55 m²
+ Appartement,158 500 ,Dixmude,1,1,55 m²
+ Appartement,159 000 ,Deinze,1,1,65 m²
+ Maison Trois Façades,159 000 ,Assenede,2,1,85 m²
+ Appartement,159 000 ,Liège,1,1,65 m²
+ Appartement,159 000 ,Saint-Nicolas,2,1,115 m²
+ Duplex,159 000 ,Courtrai,2,1,64 m²
+ Maison Trois Façades,159 000 ,Chênée,3,1,104 m²
+ Maison Trois Façades,159 000 ,Chênée,4,1,109 m²
+ Appartement,159 000 ,La Panne,1,1,54 m²
+ Maison,159 000 ,Montignies-Sur-Sambre,2,1,105 m²
+ Appartement,159 000 ,Bouge,2,1,75 m²
+ Maison,159 000 ,Seraing,2,1,90 m²
+ Appartement,159 000 ,La Panne,1,1,46 m²
+ Maison quatre façades,159 000 ,Angleur,3,1,107 m²
+ Maison Trois Façades,159 000 ,Maffe,4,1,174 m²
+ Appartement,159 000 ,Bruxelles,1,1,36 m²
+ Appartement,159 000 ,Liège,2,1,56 m²
+ Maison,159 000 ,Hornu,3,1,180 m²
+ Maison,159 000 ,Marcinelle,2,1,190 m²
+ Maison,159 000 ,Dampremy,2,1,90 m²
+ Maison,159 000 ,Antoing,3,1,130 m²
+ Maison,159 000 ,Gaurain-Ramecroix,1,1,74 m²
+ Maison,159 000 ,Mouscron,2,1,100 m²
+ Maison de rangée,159 000 ,Blanckenberghe,4,1,124 m²
+ Maison,159 000 ,Menin,2,1,130 m²
+ Maison,159 000 ,Iseghem,3,1,190 m²
+ Maison,159 000 ,Anderlues,3,1,120 m²
+ Appartement,159 000 ,Blanckenberghe,2,1,86 m²
+ Maison,159 000 ,Mouscron,2,1,104 m²
+ Appartement,159 000 ,Rocourt,1,1,62 m²
+ Maison,159 000 ,Herseaux,3,1,119 m²
+ Appartement,159 000 ,Mouscron,2,1,91 m²
+ Maison,159 000 ,Mouscron,3,1,98 m²
+ Maison,159 000 ,Liège,3,1,109 m²
+ Maison,159 000 ,Vaux-Sous-Chèvremont,2,1,130 m²
+ Maison,159 000 ,Courcelles,2,1,86 m²
+ Appartement,159 000 ,Tongres,2,1,124 m²
+ Flat,159 000 ,Liège,2,1,72 m²
+ Appartement,159 000 ,Anvers,1,1,34 m²
+ Appartement,159 000 ,Tournai,1,1,46 m²
+ Maison,159 000 ,Renaix,5,1,180 m²
+ Maison,159 000 ,Néchin,3,1,140 m²
+ Ferme,159 000 ,Couthuin,2,1,110 m²
+ Maison,159 000 ,Maurage,3,1,140 m²
+ Duplex,159 000 ,Borgerhout,1,1,74 m²
+ Maison,159 000 ,Pecq,3,1,170 m²
+ Appartement,159 000 ,Bruxelles,1,1,25 m²
+ Appartement,159 000 ,Bruxelles,1,1,25 m²
+ Maison,159 000 ,Dampremy,4,1,120 m²
+ Maison quatre façades,159 000 ,Angleur,3,1,166 m²
+ Maison,159 000 ,Mouscron,2,1,176 m²
+ Appartement,159 000 ,Tournai,2,1,90 m²
+ Appartement,159 000 ,Saint-Josse-Ten-Noode,2,1,70 m²
+ Appartement,159 000 ,La Hestre,2,1,94 m²
+ Appartement,159 000 ,Liège,2,1,88 m²
+ Maison,159 000 ,Wandre,3,2,132 m²
+ Maison,159 000 ,Forchies-La-Marche,2,1,81 m²
+ Appartement,159 000 ,Ressaix,2,1,58 m²
+ Appartement,159 000 ,Blanckenberghe,1,1,65 m²
+ Appartement,159 000 ,Roulers,1,1,84 m²
+ Appartement,159 000 ,Heusy,2,1,90 m²
+ Maison,159 000 ,Liège,1,1,70 m²
+ Maison de rangée,159 000 ,Liège,3,1,120 m²
+ Appartement,159 000 ,Bottelare,1,1,41 m²
+ Maison,159 000 ,Iseghem,6,1,169 m²
+ Maison,159 000 ,Wervicq,3,1,120 m²
+ Maison,159 000 ,Mouscron,3,1,97 m²
+ Appartement,159 000 ,Courtrai,1,1,40 m²
+ Appartement,159 000 ,Liège,2,1,90 m²
+ Maison,159 000 ,Néchin,3,1,125 m²
+ Appartement,159 000 ,Wervicq,3,1,250 m²
+ Maison,159 000 ,Herstal,4,1,137 m²
+ Maison,159 000 ,Houtain-Saint-Siméon,2,1,108 m²
+ Appartement,159 000 ,Anderlecht,2,1,58 m²
+ Appartement,159 000 ,Ostende,2,1,75 m²
+ Maison,159 000 ,Boussu,2,1,100 m²
+ Maison,159 000 ,Beyne-Heusay,2,1,101 m²
+ Maison,159 000 ,Châtelet,2,1,110 m²
+ Maison,159 000 ,Verviers,4,2,279 m²
+ Maison,159 000 ,Verviers,6,2,279 m²
+ Maison Trois Façades,159 000 ,Seraing,2,1,104 m²
+ Maison,159 000 ,Fleurus,2,1,70 m²
+ Maison,159 000 ,Flémalle,2,1,116 m²
+ Appartement,159 000 ,Haine-Saint-Pierre,2,1,100 m²
+ Maison,159 000 ,Liège,1,1,64 m²
+ Appartement,159 000 ,Laeken,1,1,60 m²
+ Maison,159 000 ,Forchies-La-Marche,2,1,137 m²
+ Appartement,159 000 ,Nivelles,1,1,78 m²
+ Maison,159 000 ,Tilff,2,1,85 m²
+ Appartement,159 000 ,Ostende,1,1,60 m²
+ Appartement,159 000 ,Gerpinnes,2,1,80 m²
+ Maison,159 000 ,Grâce-Hollogne,3,1,95 m²
+ Appartement,159 000 ,Taintignies,2,1,80 m²
+ Appartement,159 000 ,Etterbeek,1,1,33 m²
+ Appartement,159 000 ,Anderlecht,1,1,63 m²
+ Appartement,159 000 ,Anderlecht,1,1,61 m²
+ Maison,159 000 ,Trivières,2,1,108 m²
+ Appartement,159 000 ,Le coq,1,1,52 m²
+ Appartement,159 000 ,Audenarde,1,1,65 m²
+ Maison,159 000 ,Roulers,3,1,90 m²
+ Maison Trois Façades,159 500 ,Saint-Nicolas,2,1,100 m²
+ Maison,159 500 ,Seraing,4,1,135 m²
+ Appartement,159 999 ,Houdeng-Goegnies,2,1,109 m²
+ Maison,159 999 ,Saint-Vaast,2,1,145 m²
+ Maison,159 999 ,Quaregnon,2,1,238 m²
+ Maison,159 999 ,Jumet,5,1,163 m²
+ Maison,159 999 ,Gouy-Lez-Piéton,3,1,139 m²
+ Maison,159 999 ,Jumet,2,1,155 m²
+ Maison,159 999 ,Mont-Sur-Marchienne,3,1,124 m²
+ Maison,159 999 ,Jumet,1,1,144 m²
+ Maison,159 999 ,Roselies,2,1,139 m²
+ Maison,159 999 ,Wanfercée-Baulet,5,3,247 m²
+ Maison,159 999 ,Carnières,2,1,105 m²
+ Appartement,160 000 ,Molenbeek-Saint-Jean,2,1,71 m²
+ Maison Trois Façades,160 000 ,Péruwelz,4,2,250 m²
+ Maison,160 000 ,Brasménil,3,1,106 m²
+ Maison,160 000 ,La Louvière,2,1,114 m²
+ Appartement,160 000 ,Berchem-Sainte-Agathe,1,1,63 m²
+ Maison,160 000 ,Dadizele,3,1,103 m²
+ Maison,160 000 ,Flénu,2,1,100 m²
+ Maison,160 000 ,Angleur,4,2,144 m²
+ Maison,160 000 ,Flénu,3,1,116 m²
+ Maison,160 000 ,Strépy-Bracquegnies,2,2,103 m²
+ Maison de rangée,160 000 ,Lo-Reninge,4,1,135 m²
+ Appartement,160 000 ,Saint-Josse-Ten-Noode,1,1,52 m²
+ Appartement,160 000 ,Molenbeek-Saint-Jean,1,1,50 m²
+ Maison,160 000 ,Châtelet,5,1,187 m²
+ Maison quatre façades,160 000 ,Houthulst,2,1,117 m²
+ Maison,160 000 ,Dison,2,1,92 m²
+ Appartement,160 000 ,Brée,3,1,110 m²
+ Appartement,160 000 ,Anderlecht,1,1,35 m²
+ Maison,160 000 ,Ostende,4,2,195 m²
+ Maison Trois Façades,160 000 ,Boussu,2,1,187 m²
+ Appartement,160 000 ,Ixelles,2,1,55 m²
+ Appartement,160 000 ,Dour,2,1,167 m²
+ Appartement,160 000 ,Oupeye,2,1,90 m²
+ Appartement,160 000 ,Bruxelles,2,1,60 m²
+ Appartement,160 000 ,Wanfercée-Baulet,1,1,53 m²
+ Appartement,160 000 ,Dour,2,1,167 m²
+ Maison Trois Façades,160 000 ,Bléharies,3,1,202 m²
+ Maison Trois Façades,160 000 ,Péruwelz,2,1,165 m²
+ Maison,160 000 ,Membre,3,1,216 m²
+ Maison,160 000 ,Leuze-En-Hainaut,3,1,121 m²
+ Maison,160 000 ,Marchienne-Au-Pont,2,1,173 m²
+ Maison,160 000 ,Menin,3,1,150 m²
+ Appartement,160 000 ,Jambes,1,1,50 m²
+ Appartement,160 000 ,Desselgem,2,1,94 m²
+ Appartement,160 000 ,Acoz,2,1,101 m²
+ Maison,160 000 ,Wanfercée-Baulet,2,1,69 m²
+ Maison,160 000 ,Gilly,3,1,200 m²
+ Appartement,160 000 ,Flobecq,2,1,90 m²
+ Maison de rangée,160 000 ,Tongres,4,1,325 m²
+ Maison Trois Façades,160 000 ,Mariembourg,3,1,128 m²
+ Appartement,160 000 ,Harelbeke,3,1,110 m²
+ Maison,160 000 ,Tourpes,3,1,117 m²
+ Maison,160 000 ,Tourpes,3,1,117 m²
+ Maison,160 000 ,Tourpes,3,1,117 m²
+ Maison,160 000 ,Tourpes,3,1,117 m²
+ Maison,160 000 ,Tourpes,3,1,117 m²
+ Maison,160 000 ,Nimy,2,1,128 m²

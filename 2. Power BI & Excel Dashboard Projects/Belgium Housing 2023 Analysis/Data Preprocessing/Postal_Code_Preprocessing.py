@@ -1,0 +1,103 @@
+import pandas as pd
+
+city_codes = {
+    'Malines': '2800',
+    'La calamine': '4720',
+    "Fontaine-L'Evêque": '6140',
+    'Le coq': '8420',
+    'Blanckenberghe': '8370',
+    'Pétigny': '5575',
+    'Pâturages': '7340',
+    'Menin': '8930',
+    'Ostende': '8400',
+    'Coxyde': '8670',
+    "Bois-D'Haine": '7170',
+    'Chênée': '4032',
+    'Grivegnée': '4030',
+    'Roulers': '8800',
+    'La Panne': '8660',
+    'Audenarde': '9700',
+    'Audenbourg': '6724',
+    'Alost': '9300',
+    'Lierre': '2500',
+    'Gand': '9000',
+    'Sougné-Remouchamps': '4920',
+    'Tongres': '3700',
+    'Iseghem': '8870',
+    "Ecaussinnes-D'Enghien": "7190",
+    "Courtrai": "8500",
+    "Barvaux-Sur-Ourthe": "6940",
+    "Anvers": "2000",
+    "Grammont": "9500",
+    "Hautem-Saint-Liévin": "7904",
+    "Dixmude": "8600",
+    "Ham-Sur-Heure-Nalinnes": "6120",
+    "Thourout": "8210",
+    "Poperinghe": "8970",
+    "Tervueren": "3080",
+    "Saint-Idesbald": "8670",
+    "Wervicq": "7780",
+    "Brasménil": "1357",
+    "Brée": "3960",
+    "Ypres": "8900",
+    "Hal": "1500",
+    "Thielt": "8700",
+    "Gammerages": "1570",
+    "Nieuport": "8620",
+    "Mont-De-L'Enclus": "7750",
+    "Woluwe-Saint-Etienne": "1932",
+    "Bruges": "8000",
+    "Tirlemont": "3300",
+    "Villers-L'Evêque": "4340",
+    'Vilvorde': '1800',
+    'Lierrede': '2500',
+    'Braine': '7090',
+    'Cuerne': '9840',
+    'Heist-Aan-Zee': '8301',
+    'Alveringhem': '8690',
+    'Leeuw-saint-pierre': '1600',
+    'Béringue': '4607',
+    'S Gravenwezel': '2970',
+    'Termonde': '9200',
+    'Grand-Bigard': '1702',
+    'Béclers': '7904',
+    'Furnes': '8630',
+    "Braine-L'Alleud": '1420',
+    'Lievegem': '9930',
+    'Beveren-Waas': '9120',
+    'Zwalin': '3400',
+    'Havré': '7021',
+    'Aerschot': '3200',
+    'Léau': '7130',
+    'Ardoye': '1780',
+    'Hérinnes-lez-enghien': '7850',
+    "L'Ecluse": '7600',
+    'Meysse': '4219',
+    'Knocke-Heist': '8300',
+    'Puers-Saint-Amand': '2870',
+    'Knokke le Zoute': '8300',
+    'Duinbergen': '8301',
+    'Zuyenkerque': '8640',
+    'Saint-Gilles-Waes': '9170',
+    'Louvain': '3000',
+    'Nouvelles-Églises': '7760',
+    'Wavre-sainte-catherine': '1301',
+    'Lombeek-Sainte-Catherine': '1742',
+    "Sint-Job-In-'T-Goor": '2960',
+    'Laethem-saint-martin': '9830',
+    'Haecht': '3150'
+}
+
+cities = list(city_codes.keys())
+city_postal_codes = {city: city_codes[city] for city in cities}
+
+postal_code = pd.DataFrame(city_postal_codes, index=range(len(city_postal_codes)))
+
+postal_code = postal_code[:1:]
+postal_code = postal_code.stack().reset_index(level=1)
+postal_code.reset_index(inplace=True)
+postal_code.drop('index', axis=1, inplace=True)
+col = ['Localite', 'Code']
+postal_code.columns = col
+
+postal_code.to_csv('postal_codes.csv', index=False)

@@ -1,0 +1,312 @@
+Title,Price,Location,Bedrooms,Bathrooms,Surface
+ Maison,1 750 000 ,La Hulpe,6,4,480 m²
+ Maison,1 750 000 ,Bernissart,6,2,750 m²
+ Maison,1 750 000 ,Tervueren,2,2,337 m²
+ Maison,1 750 000 ,Rhode-Saint-Genèse,4,3,340 m²
+ Villa,1 750 000 ,Asse,4,3,435 m²
+ Maison,1 750 000 ,Gand,9,9,325 m²
+ Maison,1 750 000 ,Liège,22,15,876 m²
+ Maison,1 750 000 ,Angleur,22,15,876 m²
+ Maison,1 750 000 ,Rhode-Saint-Genèse,4,2,340 m²
+ Maison,1 750 000 ,Tournai,6,4,750 m²
+ Maison de maître,1 750 000 ,Ixelles,8,2,554 m²
+ Maison,1 750 000 ,Rebecq,14,6,850 m²
+ Appartement,1 780 000 ,Ixelles,4,4,333 m²
+ Appartement,1 780 000 ,Saint-Gilles,4,4,333 m²
+ Appartement,1 780 000 ,Saint-Gilles,4,4,333 m²
+ Appartement,1 780 000 ,Ixelles,4,4,333 m²
+ Appartement,1 780 000 ,Saint-Gilles,4,4,333 m²
+ Maison,1 790 000 ,Haecht,8,3,500 m²
+ Maison,1 790 000 ,Kraainem,5,4,548 m²
+ Maison,1 790 000 ,Kraainem,5,4,600 m²
+ Maison,1 790 000 ,Ixelles,4,3,537 m²
+ Appartement,1 790 000 ,Ixelles,4,3,300 m²
+ Maison,1 795 000 ,Lasne,5,4,550 m²
+ Maison,1 795 000 ,Lasne-Chapelle-Saint-Lambert,5,2,475 m²
+ Villa,1 795 000 ,Lasne,5,3,580 m²
+ Maison,1 795 000 ,Duinbergen,4,4,155 m²
+ Duplex,1 795 000 ,Knokke,3,2,177 m²
+ Villa,1 800 000 ,Kraainem,5,3,412 m²
+ Maison,1 800 000 ,Kraainem,5,5,454 m²
+ Maison,1 800 000 ,Kraainem,5,5,454 m²
+ Appartement,1 800 000 ,Uccle,2,1,375 m²
+ Appartement,1 800 000 ,Uccle,2,1,396 m²
+ Maison,1 800 000 ,Ostende,2,1,440 m²
+ Appartement,1 800 000 ,Uccle,2,2,395 m²
+ Appartement,1 800 000 ,Uccle,2,1,375 m²
+ Maison,1 825 000 ,Woluwe-Saint-Pierre,4,4,380 m²
+ Maison,1 825 000 ,Woluwe-Saint-Pierre,4,4,380 m²
+ Appartement,1 830 000 ,Knokke,4,3,180 m²
+ Flat,1 839 000 ,Ixelles,3,1,203 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,3,125 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,3,113 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,3,125 m²
+ Maison de maître,1 850 000 ,Ixelles,6,2,368 m²
+ Maison,1 850 000 ,Braine-L'Alleud,5,3,550 m²
+ Maison,1 850 000 ,Forest,5,4,400 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,2,170 m²
+ Maison,1 850 000 ,Grobbendonk,5,3,550 m²
+ Maison,1 850 000 ,Bruxelles,4,4,468 m²
+ Ferme,1 850 000 ,Ebly,4,2,320 m²
+ Flat,1 850 000 ,Bruxelles,4,4,500 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,3,113 m²
+ Appartement,1 850 000 ,Knokke,3,3,125 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,3,125 m²
+ Maison,1 850 000 ,Uccle,4,4,360 m²
+ Appartement,1 850 000 ,Knocke-Heist,3,3,125 m²
+ Maison,1 850 000 ,Uccle,4,4,360 m²
+ Villa,1 850 000 ,Uccle,5,2,383 m²
+ Maison,1 850 000 ,Uccle,7,4,360 m²
+ Maison,1 850 000 ,Tournai,7,2,1193 m²
+ Maison,1 850 000 ,Estaimpuis,6,5,952 m²
+ Villa,1 865 000 ,Uccle,4,3,250 m²
+ Ferme,1 870 000 ,Néchin,6,3,600 m²
+ Maison,1 875 000 ,Anvers,5,3,574 m²
+ Villa,1 875 000 ,Heist-Aan-Zee,8,6,270 m²
+ Appartement,1 885 000 ,Knocke-Heist,3,2,120 m²
+ Appartement,1 890 000 ,Bruxelles,3,3,275 m²
+ Maison,1 890 000 ,Ixelles,5,5,424 m²
+ Appartement,1 890 000 ,Uccle,3,3,270 m²
+ Maison,1 890 000 ,Mouscron,7,7,600 m²
+ Maison quatre façades,1 895 000 ,Lasne,6,2,810 m²
+ Maison,1 900 000 ,Gavere,5,3,759 m²
+ Maison,1 900 000 ,Rhode-Saint-Genèse,4,1,344 m²
+ Maison,1 900 000 ,Anderlecht,15,15,985 m²
+ Maison,1 900 000 ,Ixelles,4,3,370 m²
+ Maison,1 900 000 ,Bruxelles,4,7,516 m²
+ Maison,1 950 000 ,Schoten,6,5,670 m²
+ Flat,1 950 000 ,Ixelles,3,1,211 m²
+ Maison,1 950 000 ,Lanaken,15,15,980 m²
+ Maison Trois Façades,1 950 000 ,Ixelles,3,3,602 m²
+ Maison Trois Façades,1 950 000 ,Ixelles,3,3,602 m²
+ Maison Trois Façades,1 950 000 ,Ixelles,3,3,602 m²
+ Flat,1 950 000 ,Ixelles,5,3,350 m²
+ Maison,1 950 000 ,Bruxelles,4,3,300 m²
+ Maison,1 950 000 ,Woluwe-Saint-Pierre,6,4,515 m²
+ Maison,1 950 000 ,Woluwe-Saint-Pierre,6,4,410 m²
+ Château,1 950 000 ,Theux,25,6,1500 m²
+ Appartement,1 950 000 ,Woluwe-Saint-Lambert,4,2,550 m²
+ Maison Trois Façades,1 960 000 ,Ixelles,6,6,509 m²
+ Maison,1 960 000 ,Ixelles,6,5,509 m²
+ Maison,1 960 000 ,Theux,25,6,1120 m²
+ Maison,1 980 000 ,Uccle,6,4,382 m²
+ Maison,1 980 000 ,La Hulpe,6,6,732 m²
+ Maison,1 980 000 ,Genval,6,4,310 m²
+ Villa,1 980 000 ,La Hulpe,7,6,732 m²
+ Appartement,1 980 000 ,Saint-Gilles,3,3,380 m²
+ Maison,1 980 000 ,Etterbeek,7,2,485 m²
+ Maison,1 980 000 ,Uccle,5,4,400 m²
+ Maison,1 985 000 ,Etterbeek,5,1,706 m²
+ Villa,1 990 000 ,Uccle,5,4,608 m²
+ Maison,1 990 000 ,Etterbeek,5,5,610 m²
+ Maison,1 990 000 ,Etterbeek,6,4,610 m²
+ Penthouse,1 990 000 ,Uccle,3,2,241 m²
+ Maison,1 990 000 ,Bruxelles,17,8,780 m²
+ Appartement,1 995 000 ,Knokke le Zoute,2,2,81 m²
+ Maison,1 995 000 ,Auderghem,5,4,560 m²
+ Maison,1 995 000 ,Wemmel,5,3,405 m²
+ Appartement,1 995 000 ,Knocke-Heist,3,3,125 m²
+ Flat,1 995 000 ,Ixelles,4,3,277 m²
+ Appartement,1 995 000 ,Bruxelles,5,5,595 m²
+ Appartement,1 995 000 ,Knocke-Heist,4,2,141 m²
+ Maison,1 995 000 ,Grez-Doiceau,5,4,822 m²
+ Appartement,1 995 000 ,Knocke-Heist,4,2,128 m²
+ Maison,1 995 000 ,Bruxelles,5,3,635 m²
+ Immeuble à appartements,2 050 000 ,Bruxelles,7,7,566 m²
+ Maison,2 050 000 ,Bruxelles,6,3,400 m²
+ Villa,2 100 000 ,Waterloo,5,2,410 m²
+ Maison,2 100 000 ,Uccle,4,4,330 m²
+ Appartement,2 100 000 ,Ixelles,3,3,446 m²
+ Appartement,2 100 000 ,Knocke-Heist,3,2,144 m²
+ Appartement,2 125 000 ,Knokke le Zoute,3,2,117 m²
+ Maison,2 150 000 ,Woluwe-Saint-Pierre,5,3,354 m²
+ Maison,2 150 000 ,Woluwe-Saint-Pierre,5,4,354 m²
+ Maison,2 150 000 ,Jette,2,1,95 m²
+ Villa,2 150 000 ,Lasne,6,5,824 m²
+ Maison,2 150 000 ,Saint-Gilles,8,4,510 m²
+ Villa,2 150 000 ,Watermael-Boitsfort,5,3,415 m²
+ Villa,2 150 000 ,Uccle,6,3,332 m²
+ Villa,2 150 000 ,Uccle,6,3,332 m²
+ Maison,2 150 000 ,Rhode-Saint-Genèse,5,3,400 m²
+ Maison quatre façades,2 175 000 ,Knocke-Heist,4,2,255 m²
+ Maison,2 175 000 ,Lasne,5,3,650 m²
+ Maison,2 175 000 ,Gand,9,9,1020 m²
+ Maison,2 195 000 ,Knocke-Heist,4,2,300 m²
+ Maison,2 195 000 ,Knocke-Heist,4,2,300 m²
+ Maison,2 195 000 ,Knocke-Heist,4,2,398 m²
+ Maison,2 195 000 ,Knocke-Heist,4,2,398 m²
+ Maison,2 195 000 ,Woluwe-Saint-Pierre,7,5,511 m²
+ Maison,2 200 000 ,Ixelles,5,4,485 m²
+ Duplex,2 200 000 ,Tournai,5,5,500 m²
+ Maison,2 200 000 ,Tournai,7,3,1000 m²
+ Appartement,2 250 000 ,Knokke le Zoute,2,2,85 m²
+ Appartement,2 250 000 ,Knokke le Zoute,2,2,84 m²
+ Villa,2 250 000 ,Hoeilaart,13,6,950 m²
+ Appartement,2 270 000 ,Knocke-Heist,3,2,97 m²
+ Maison,2 295 000 ,Ixelles,5,4,460 m²
+ Maison,2 295 000 ,Bruxelles,6,3,497 m²
+ Maison,2 300 000 ,Ixelles,6,3,600 m²
+ Maison,2 300 000 ,Lasne,5,2,367 m²
+ Maison Trois Façades,2 300 000 ,Ixelles,3,2,600 m²
+ Maison,2 350 000 ,Uccle,6,2,420 m²
+ Maison,2 350 000 ,Ixelles,5,3,540 m²
+ Maison,2 350 000 ,Woluwe-Saint-Pierre,5,2,350 m²
+ Maison,2 350 000 ,Anvers,4,4,390 m²
+ Maison,2 350 000 ,Ixelles,5,4,485 m²
+ Appartement,2 350 000 ,Knokke le Zoute,2,2,121 m²
+ Appartement,2 350 000 ,Knokke le Zoute,2,2,121 m²
+ Duplex,2 350 000 ,Knokke le Zoute,2,2,121 m²
+ Appartement,2 360 000 ,Knokke le Zoute,3,3,154 m²
+ Maison,2 390 000 ,Rhode-Saint-Genèse,5,5,400 m²
+ Villa,2 390 000 ,Uccle,4,4,433 m²
+ Maison,2 390 000 ,Uccle,5,3,490 m²
+ Appartement,2 395 000 ,Knokke le Zoute,3,3,173 m²
+ Maison,2 395 000 ,Uccle,7,4,562 m²
+ Maison,2 400 000 ,Berchem,8,3,616 m²
+ Maison,2 450 000 ,Brasschaat,6,6,813 m²
+ Maison,2 450 000 ,Velm,20,8,2800 m²
+ Appartement,2 450 000 ,Ixelles,6,6,360 m²
+ Villa,2 450 000 ,Uccle,4,4,360 m²
+ Maison,2 470 000 ,Rhode-Saint-Genèse,5,4,485 m²
+ Maison,2 475 000 ,Ixelles,4,3,631 m²
+ Maison,2 480 000 ,Chaumont-Gistoux,6,4,600 m²
+ Maison,2 480 000 ,Chaumont-Gistoux,6,5,750 m²
+ Château,2 480 000 ,Grimbergen,10,6,850 m²
+ Maison,2 490 000 ,Uccle,6,3,420 m²
+ Maison,2 495 000 ,Rhode-Saint-Genèse,5,5,900 m²
+ Maison,2 495 000 ,Tervueren,6,4,600 m²
+ Maison,2 500 000 ,Tervueren,4,4,290 m²
+ Maison quatre façades,2 500 000 ,Knokke le Zoute,4,4,270 m²
+ Maison,2 500 000 ,Tervueren,5,2,320 m²
+ Maison,2 500 000 ,Zillebeke,16,16,750 m²
+ Maison,2 500 000 ,Bruges,6,2,680 m²
+ Maison quatre façades,2 500 000 ,Knokke le Zoute,4,4,270 m²
+ Maison,2 500 000 ,Watermael-Boitsfort,6,6,693 m²
+ Appartement rez-de-chaussée,2 530 000 ,Uccle,3,2,300 m²
+ Maison,2 590 000 ,Rhode-Saint-Genèse,5,4,590 m²
+ Maison,2 590 000 ,Uccle,7,5,540 m²
+ Maison,2 595 000 ,Uccle,5,3,500 m²
+ Appartement,2 595 000 ,Knokke,3,2,122 m²
+ Maison,2 600 000 ,Anvers,5,2,750 m²
+ Maison quatre façades,2 650 000 ,Knocke-Heist,5,3,319 m²
+ Villa,2 650 000 ,Knokke le Zoute,3,2,175 m²
+ Maison,2 650 000 ,Louvain,8,4,1112 m²
+ Maison,2 650 000 ,Courtrai,10,2,850 m²
+ Maison,2 680 000 ,Rhode-Saint-Genèse,6,5,540 m²
+ Maison,2 700 000 ,Silly,6,4,887 m²
+ Appartement,2 745 000 ,Knocke-Heist,3,2,185 m²
+ Maison,2 750 000 ,Tervueren,5,3,961 m²
+ Maison Trois Façades,2 750 000 ,Ixelles,4,3,570 m²
+ Maison,2 750 000 ,Uccle,7,3,450 m²
+ Maison,2 750 000 ,Lasne,7,3,450 m²
+ Maison,2 750 000 ,Rhode-Saint-Genèse,5,4,480 m²
+ Maison,2 750 000 ,Kraainem,6,4,650 m²
+ Maison,2 750 000 ,Kraainem,6,3,650 m²
+ Maison quatre façades,2 795 000 ,Knocke-Heist,4,4,298 m²
+ Maison,2 800 000 ,Woluwe-Saint-Pierre,5,4,410 m²
+ Maison,2 800 000 ,Woluwe-Saint-Pierre,6,4,450 m²
+ Appartement,2 800 000 ,Knokke le Zoute,4,4,169 m²
+ Maison,2 800 000 ,Rendeux,17,17,1850 m²
+ Maison,2 800 000 ,Woluwe-Saint-Pierre,10,6,1000 m²
+ Maison,2 800 000 ,Woluwe-Saint-Pierre,10,6,1000 m²
+ Maison,2 850 000 ,Rhode-Saint-Genèse,5,5,545 m²
+ Maison quatre façades,2 850 000 ,Bolland,10,4,1750 m²
+ Maison quatre façades,2 850 000 ,Bolland,10,4,1750 m²
+ Appartement,2 850 000 ,Knocke-Heist,3,3,181 m²
+ Maison,2 895 000 ,Uccle,6,6,590 m²
+ Maison,2 900 000 ,Ixelles,10,7,1152 m²
+ Maison Trois Façades,2 900 000 ,Ixelles,4,3,630 m²
+ Château,2 950 000 ,Lummen,6,4,700 m²
+ Appartement,2 950 000 ,Knocke-Heist,5,3,203 m²
+ Maison,2 950 000 ,Woluwe-Saint-Pierre,7,5,580 m²
+ Maison,2 950 000 ,Woluwe-Saint-Pierre,7,5,580 m²
+ Villa,2 950 000 ,Lasne,7,6,780 m²
+ Maison,2 950 000 ,Lasne,7,6,780 m²
+ Maison,2 950 000 ,Brasschaat,5,5,523 m²
+ Maison,2 975 000 ,Uccle,5,2,495 m²
+ Maison,2 975 000 ,Ixelles,5,2,495 m²
+ Maison,2 985 000 ,Uccle,8,10,545 m²
+ Maison,2 985 000 ,Uccle,5,5,555 m²
+ Appartement,2 995 000 ,Knokke le Zoute,3,3,105 m²
+ Appartement,2 995 000 ,Knokke le Zoute,3,3,105 m²
+ Appartement,2 995 000 ,Knocke-Heist,3,3,225 m²
+ Maison,3 000 000 ,Ixelles,5,3,450 m²
+ Immeuble à appartements,3 000 000 ,Ixelles,7,7,585 m²
+ Maison,3 000 000 ,Uccle,4,3,300 m²
+ Maison,3 100 000 ,Ixelles,12,3,890 m²
+ Maison,3 150 000 ,Woluwe-Saint-Pierre,7,4,600 m²
+ Maison,3 150 000 ,Woluwe-Saint-Pierre,7,5,600 m²
+ Maison Trois Façades,3 200 000 ,Ixelles,5,3,758 m²
+ Maison,3 200 000 ,Waterloo,6,4,986 m²
+ Maison,3 200 000 ,Ixelles,5,4,758 m²
+ Maison,3 200 000 ,Ixelles,12,9,750 m²
+ Maison,3 200 000 ,Ixelles,1,3,1425 m²
+ Maison,3 200 000 ,Bruxelles,1,3,1425 m²
+ Maison,3 295 000 ,Uccle,6,3,570 m²
+ Flat,3 297 000 ,Ixelles,3,1,305 m²
+ Appartement,3 297 000 ,Bruxelles,3,1,305 m²
+ Maison,3 350 000 ,Tervueren,7,4,580 m²
+ Maison,3 350 000 ,Tervueren,7,4,600 m²
+ Maison,3 400 000 ,Anvers,8,6,725 m²
+ Maison,3 450 000 ,Uccle,5,4,400 m²
+ Maison,3 450 000 ,Ixelles,5,3,600 m²
+ Maison,3 450 000 ,Woluwe-Saint-Pierre,6,5,700 m²
+ Maison de maître,3 450 000 ,Ixelles,6,4,500 m²
+ Maison,3 450 000 ,Waasmunster,4,2,576 m²
+ Maison Trois Façades,3 475 000 ,Knocke-Heist,4,4,353 m²
+ Maison,3 495 000 ,Anvers,6,3,709 m²
+ Duplex,3 495 000 ,Knokke,4,4,194 m²
+ Villa,3 500 000 ,Knokke le Zoute,6,2,277 m²
+ Maison Trois Façades,3 500 000 ,Knokke le Zoute,7,2,400 m²
+ Maison,3 500 000 ,Knocke-Heist,5,3,324 m²
+ Villa,3 500 000 ,Knokke,6,3,324 m²
+ Appartement,3 500 000 ,Bruxelles,3,3,540 m²
+ Maison,3 500 000 ,Knocke-Heist,4,4,331 m²
+ Maison,3 500 000 ,Uccle,5,5,700 m²
+ Loft,3 595 000 ,Knokke,3,3,218 m²
+ Maison,3 650 000 ,Woluwe-Saint-Pierre,6,6,614 m²
+ Maison Trois Façades,3 650 000 ,Knokke le Zoute,7,1,282 m²
+ Immeuble à appartements,3 700 000 ,Ixelles,20,13,925 m²
+ Maison,3 750 000 ,Belsele,5,2,362 m²
+ Maison,3 900 000 ,Anvers,10,4,1054 m²
+ Maison,3 950 000 ,La Hulpe,6,5,450 m²
+ Maison,3 950 000 ,Brasschaat,5,4,810 m²
+ Maison,3 950 000 ,Asse,14,4,1240 m²
+ Château,3 950 000 ,Ternat,14,5,1240 m²
+ Château,3 950 000 ,Dilbeek,14,5,1240 m²
+ Château,3 950 000 ,Bruxelles,14,5,1240 m²
+ Château,3 950 000 ,Asse,14,5,1240 m²
+ Maison quatre façades,4 050 000 ,Knokke le Zoute,5,3,268 m²
+ Maison,4 200 000 ,Rhode-Saint-Genèse,5,3,450 m²
+ Maison,4 250 000 ,Edegem,6,2,489 m²
+ Maison,4 290 000 ,Rhode-Saint-Genèse,6,5,1100 m²
+ Maison,4 290 000 ,Rhode-Saint-Genèse,6,5,1100 m²
+ Appartement,4 295 000 ,Knokke le Zoute,3,2,163 m²
+ Villa,4 350 000 ,Knokke le Zoute,4,2,272 m²
+ Appartement,4 400 000 ,Knokke,4,4,273 m²
+ Appartement,4 400 000 ,Knocke-Heist,4,2,273 m²
+ Château,4 450 000 ,Zoersel,5,3,1079 m²
+ Maison,4 500 000 ,Uccle,4,5,560 m²
+ Maison,4 500 000 ,Uccle,5,5,800 m²
+ Appartement,4 600 000 ,Knokke le Zoute,3,2,163 m²
+ Maison,4 700 000 ,Ohey,4,1,490 m²
+ Maison de maître,4 790 000 ,Ixelles,8,8,1000 m²
+ Maison,4 950 000 ,Forest,7,6,1500 m²
+ Maison,4 950 000 ,Tervueren,6,5,750 m²
+ Maison,4 950 000 ,Forest,7,7,1100 m²
+ Villa,4 950 000 ,Forest,5,5,1500 m²
+ Maison,4 995 000 ,Knocke-Heist,4,3,396 m²
+ Maison,5 100 000 ,Uccle,10,10,1200 m²
+ Maison,5 500 000 ,Uccle,6,6,1173 m²
+ Maison,5 650 000 ,Bruxelles,6,5,600 m²
+ Maison,5 650 000 ,Ixelles,6,5,600 m²
+ Maison,5 650 000 ,Bruxelles,6,5,592 m²
+ Maison quatre façades,5 695 000 ,Knokke le Zoute,5,4,440 m²
+ Maison,5 850 000 ,Kapellen,5,5,1130 m²
+ Maison,5 900 000 ,Brasschaat,6,4,1000 m²
+ Maison,6 400 000 ,Ixelles,27,27,1350 m²
+ Maison,6 400 000 ,Bruxelles,27,27,1350 m²
+ Maison,7 000 000 ,Uccle,6,6,700 m²
+ Maison,7 385 000 ,Ixelles,21,14,1719 m²
+ Maison,7 500 000 ,Grez-Doiceau,7,8,1288 m²
+ Duplex,8 100 000 ,Knokke,3,3,427 m²
